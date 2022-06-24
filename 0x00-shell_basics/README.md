@@ -1,1 +1,1 @@
-Take me to the home directory readme
+Dissplay current directory contents in a long format
