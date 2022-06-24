@@ -1,1 +1,1 @@
-Home the place readme
+Take me to the home directory readme
