@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+file * school
+=======
 #!/bin/bash
 file * School.mgc
+>>>>>>> 58be457172d8b5bc92a9f43d4ce5013bb1fddea7
